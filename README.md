@@ -6,7 +6,7 @@
 
     > PDF 转 PNG，图片转 PDF
 
-## 如何使用
+## 使用
 1. 终端使用
     ```bash
     # 1. 创建虚拟环境（只需一次）
@@ -19,4 +19,4 @@
     uv run python images_to_pdf.py
     ```
 
-2. releases 中下载可执行程序
+2. 下载可执行程序: [Releases](https://github.com/mycherish/file-conver/releases)
